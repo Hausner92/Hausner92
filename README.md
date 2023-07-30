@@ -3,7 +3,7 @@
 ## What about me :eyes: 
 
 *I am a beginner Junior QA engineer getting started my career in IT.<br>
-I am a person who is meticulous and pays attention to details, so I believe that I will prove myself in this role.<br> 
+I'm a meticulous person and pay attention to details, so I believe that I will prove myself in this role.<br> 
 I would like to constantly develop my skills by taking part in various kinds of initiatives and projects.<br>
 My goal is to improve as a better QA and to apply knowledge and competence to the success.<br>*
 
